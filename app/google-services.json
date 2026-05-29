@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "943392449649",
+    "firebase_url": "https://wajidtechtube-default-rtdb.firebaseio.com",
+    "project_id": "wajidtechtube",
+    "storage_bucket": "wajidtechtube.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:943392449649:android:9a5082da039f9486b5a7d0",
+        "android_client_info": {
+          "package_name": "com.developer.ariastore"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3aE9OyQ8OsIUGT_5ja89MHPodVqgIVUQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,28 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- Center colorful Google Play-style app symbol -->
+    <!-- Blue piece (Left) -->
+    <path
+        android:pathData="M36,28 L58,54 L36,80 V28 Z"
+        android:fillColor="#3b82f6"/>
+        
+    <!-- Red piece (Top and right) -->
+    <path
+        android:pathData="M36,28 L58,54 L76,36 L36,28 Z"
+        android:fillColor="#ef4444"/>
+
+    <!-- Green piece (Bottom and right) -->
+    <path
+        android:pathData="M36,80 L58,54 L76,72 L36,80 Z"
+        android:fillColor="#10b981"/>
+
+    <!-- Yellow piece (Far right accent) -->
+    <path
+        android:pathData="M58,54 L76,36 V72 L58,54 Z"
+        android:fillColor="#f59e0b"/>
+
+</vector>

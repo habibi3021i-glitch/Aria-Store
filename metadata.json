@@ -1,0 +1,6 @@
+{
+  "name": "Aria Store",
+  "description": "A professional Play Store inspired Game and App store with Firebase dynamic loading, local search caching, categories, sub-pages, and Material 3 layouts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
